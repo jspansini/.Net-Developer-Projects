@@ -8,5 +8,5 @@
   🔸 Blobs, trees e commits;<br>
   🔸 Sha1 - Cada arquivo é único;<br>
   🔸 SSH - Secure Shell;<br>
-  🔸 Git: init, add, clone, commit, pull, push;<br>
+  🔸 Git: init, add, status, branch, clone, commit, pull, push;<br>
   </p>
