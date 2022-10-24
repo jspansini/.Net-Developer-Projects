@@ -1,6 +1,6 @@
 # Pottencial.NetDeveloper
 
-<h3 align="left" style="color:#e75b27";>Repositório dos desafios propostos no bootcamp .NetDeveloper da Pottencial <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
+<h3 style="color: green">Repositório dos desafios propostos no bootcamp .NetDeveloper da Pottencial <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h3>
 
 <h4> 🟠 1º Desafio: <strong>Criar o GitHub para versionamento dos projetos ✔️</strong></h4>
 <p><strong> Principais tópicos visitados neste deseafio:<br>
