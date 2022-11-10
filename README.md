@@ -9,6 +9,16 @@
   🔸 Blobs, trees e commits;<br>
   🔸 Sha1 - Cada arquivo é único;<br>
   🔸 SSH - Secure Shell;<br>
-  🔸 Git: init, add, status, branch, clone, commit, pull, push;<br>
+  🔸 Git: init, add, status, branch, clone, commit, pull, push.<br>
+  </ul>
+  </p>
+
+<h4> 🟠 2º Desafio: <strong>Criar o primeiro projeto WebApi ✔️</strong></h4>
+<p><strong> Principais tópicos visitados neste deseafio:<br>
+  <ul>
+  🔸 Api;<br>
+  🔸 Documentação Swagger;<br>
+  🔸 Rotas e mêtodos http;<br>
+  🔸 Endpoints.<br>
   </ul>
   </p>
