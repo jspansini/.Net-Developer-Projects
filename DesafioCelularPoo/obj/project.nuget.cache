@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SpWaaXSz7Pp5B+lB60sEf/wR4vWw6bWK7Ccbu5nqJUFoYi6EMbmOMjWPW8q+MvhWElIfRgw89AQXOHOpkx7omQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jessica.pansini\\Desktop\\trilha-net-poo-desafio-main\\DesafioPOO.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.rsmbrasil.com.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
