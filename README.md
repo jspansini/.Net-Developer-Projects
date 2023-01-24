@@ -31,3 +31,12 @@
   🔸 Herança.<br>
   </ul>
   </p>
+  
+  <h4> 🟠 4º Desafio: <strong>Você foi contratado para construir um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos. Nokia e iPhone. ✔️</strong></h4>
+<p><strong> Principais tópicos visitados neste desafio:<br>
+  <ul>
+  🔸 POO;<br>
+  🔸 Leitura e aplicação de UML;<br>
+  🔸 Iterando com listas;<br>
+  </ul>
+  </p>
