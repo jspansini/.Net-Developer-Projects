@@ -40,3 +40,5 @@
   🔸 Iterando com listas;<br>
   </ul>
   </p>
+  
+  ![Certificado](https://user-images.githubusercontent.com/68460585/218294988-482be3e8-9332-468d-a5a3-5841bcd31e18.jpg)
